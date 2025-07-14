@@ -45,3 +45,9 @@ addTask('Start React');
 displayTask();
 removeTask(2);
 displayTask();
+
+---
+
+## Image of compiled code
+
+![Result on console](Screenshot/consoleResult.png)  
